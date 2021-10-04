@@ -14,4 +14,4 @@ want to add more queries? just fork and pull request to add more different queri
 
 
 
-This project is useful for Data collection of students. I added some features like adding, deleting, modifying or updating data. I did this project in C++ and SQL
+This project is useful for Data collection of students. I added some features like adding, deleting, modifying or updating data. I did this project in SQL
